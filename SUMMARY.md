@@ -8,7 +8,8 @@
 
   * TRUC dans un train
 
-    * TRUC avec le wagon
+    * TRUC dans le wagon
+    * TRUC dans le bar
 
 
 
