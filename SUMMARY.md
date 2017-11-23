@@ -11,5 +11,9 @@
     * TRUC dans le wagon
     * TRUC dans le bar
 
+* [Utiliser TRUC](Utiliser TRUC)
+  * A la maison
+  * Au cinéma
+
 
 
