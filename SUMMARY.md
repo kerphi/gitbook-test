@@ -1,4 +1,4 @@
-# Summary
+# Summary {#summary}
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
@@ -10,6 +10,9 @@
 * [Utiliser TRUC](Utiliser TRUC)
   * [A la maison](/use-truc/home.md)
   * [Au cinéma](use-truc/au-cinema.md)
+
+![](/assets/avatar200.png)
+
 
 
 
