@@ -10,8 +10,3 @@
   * [A la maison](/use-truc/home.md)
   * [Au cinéma](use-truc/au-cinema.md)
 
-![](/assets/avatar200.png)
-
-
-
-
