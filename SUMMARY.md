@@ -1,8 +1,7 @@
 # Summary {#summary}
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [Intégrer TRUC](https://www.gitbook.com/book/kerphi/documentation-de-test/edit#)
+* [Intégrer TRUC](integrate-truc/index.md)
   * [TRUC dans une voiture](/integrate-truc/voiture.md)
   * [TRUC dans un train](/integrate-truc/train.md)
     * [TRUC dans le wagon](/integrate-truc/train/wagon.md)
