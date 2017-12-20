@@ -34,10 +34,13 @@ var list = [ 'loli', 'lala' ];
 * [ ] coucou
 * [x] tata
 * [ ] titi
-* [ ] 
+
+> Dixit Chuck noris : aaaze azevf
+
 Les technologies des sites web où ISTEX peut venir s'intégrer sont les suivantes :
 
 * ENT uPortal
+
 * CMS Drupal
 * Tout autre site web divers en HTML/CSS
 
